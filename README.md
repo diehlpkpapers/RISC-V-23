@@ -17,4 +17,6 @@ The archive's content from Zendo needs to be unpacked in the root folder.
 - run_distributedtcp.sh - Runs distributed TCP
 - pjusb -s run.sh - Runs distributed MPI on Fugaku
 
+### References
 
+* Patrick Diehl, Gregor Daiss, Steven Brandt, Alireza Kheirkhahan, Hartmut Kaiser, Christopher Taylor, and John Leidel. 2023. Evaluating HPX and Kokkos on RISC-V using an astrophysics application Octo-Tiger. In Proceedings of the SC '23 Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W '23). Association for Computing Machinery, New York, NY, USA, 1533–1542. [https://doi.org/10.1145/3624062.3624230](https://doi.org/10.1145/3624062.3624230) [Preprint](https://arxiv.org/abs/2309.06530)
